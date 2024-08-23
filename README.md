@@ -24,7 +24,7 @@ Este repositório contém o código-fonte do **Sistema de Manuscrito**, desenvol
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-de-manuscrito-java.git
+   git clone https://github.com/sistemamanuscrito/sistema-de-manuscrito-java.git
    ```
 2. Importe o projeto no seu ambiente de desenvolvimento Java (Eclipse, IntelliJ, etc.).
 3. Certifique-se de que o Java e o JavaFX estão corretamente configurados.
